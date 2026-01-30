@@ -25,7 +25,7 @@ experience in Spring Boot, Spring MVC, Hibernate, and MySQL. I enjoy building re
 
 <div align="center">
 
-<a href="https://github.com/YOUR_USERNAME/YOUR_USERNAME/raw/main/Ankit_Raj_Resume.pdf">
+<a href="https://github.com/sankalp1505/sankalp1505/blob/main/RESUME.pdf">
   <img src="https://img.shields.io/badge/Download%20Resume-blue?style=for-the-badge&logo=adobeacrobatreader"/>
 </a>
 
