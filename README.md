@@ -9,7 +9,12 @@
 </div>
 
 ---
+<div align="center">
 
+<img src="https://komarev.com/ghpvc/?username=sankalp1505&style=for-the-badge"/>
+
+</div>
+---
 ## 🚀 About Me
 
 <div align="center">
@@ -106,10 +111,3 @@ experience in Spring Boot, Spring MVC, Hibernate, and MySQL. I enjoy building re
 </div>
 
 ---
-
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=sankalp1505&style=for-the-badge"/>
-
-</div>
-
