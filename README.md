@@ -103,9 +103,13 @@ experience in Spring Boot, Spring MVC, Hibernate, and MySQL. I enjoy building re
 <a href="https://github.com/sankalp1505/sankalp1505/">
 <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
-
 </div>
 
 ---
 
-⭐ *Eager to learn, grow, and contribute to meaningful software projects.*
+<div align="center">
+
+<img src="https://komarev.com/ghpvc/?username=sankalp1505&style=for-the-badge"/>
+
+</div>
+
