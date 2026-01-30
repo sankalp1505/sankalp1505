@@ -1,66 +1,74 @@
-<!-- ================= BANNER ================= -->
+# Hi 👋, I'm Ankit Raj
 
+🎓 Computer Science Graduate (2023)  
+💻 Java Full Stack Developer | Fresher  
+📍 Bangalore, India  
 
-<h1 align="center">Hi 👋, I'm Sankalp Raj</h1>
-<h3 align="center">A Java Backend Developer</h3>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=Priyam2633&label=Visitors&color=blueviolet&style=for-the-badge"/>
-</p>
-
+I’m a motivated Computer Science graduate with a strong foundation in **Core Java, Advanced Java, and Web Development**. I enjoy building real-world projects and continuously improving my skills in full-stack development.
 
 ---
 
-<!-- ================= ABOUT ================= -->
-<p align="center">
-I’m a Computer Science Engineering student passionate about building scalable backend
-applications. I love solving real-world problems using <b>Java</b> and modern frameworks.
-Currently exploring <b>Spring Boot</b>, <b>REST APIs</b>, and improving my
-<b>Data Structures & Algorithms</b>.
-</p>
+## 🚀 About Me
+
+- 🌱 Currently learning **Spring Boot, Spring MVC & Hibernate**
+- 🔭 Worked on **Automatic Number Plate Detection System** and **Student Management System**
+- 💡 Interested in backend development and real-world software solutions
+- 🤝 Open to entry-level / fresher opportunities in software development
 
 ---
 
-<!-- ================= TECHNOLOGY STACK ================= -->
-<h2 align="center">⚙️ Technology Stack</h2>
+## 🛠️ Technical Skills
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JDBC-007396?style=for-the-badge"/>
-</p>
+**Languages**
+- Java  
+- JavaScript  
 
-<p align="center">
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
-</p>
+**Backend**
+- Spring Boot  
+- Spring MVC  
+- Hibernate  
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git"/>
-  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github"/>
-  <img src="https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven"/>
-</p>
+**Frontend**
+- HTML  
+- CSS  
+- JavaScript  
 
----
+**Database**
+- MySQL  
 
-<!-- ================= CONTACT ================= -->
-<h2 align="center">📫 Connect With Me</h2>
-
-<p align="center">
-  <a href="mailto:sr20229081@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail"/>
-  </a>
-  <a href="https://www.linkedin.com/in/sankalp-raj/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
-  </a>
-</p>
+**Tools**
+- Git & GitHub  
+- VS Code  
+- Eclipse / IntelliJ  
 
 ---
 
-<p align="center">
-✨ “Code. Learn. Build. Repeat.” ✨
-</p>
+## 📌 Projects
 
+### 🔹 Automatic Number Plate Detection System  
+- Built using Python & OpenCV  
+- Detects vehicle number plates and extracts text using OCR  
+- Used for real-world traffic and security applications  
+
+### 🔹 Student Management System  
+- Java + MySQL based application  
+- Performs CRUD operations for student records  
+- Focused on clean backend logic and database connectivity  
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true)
+
+---
+
+## 📫 Connect With Me
+
+- 📧 Email: yourmail@gmail.com  
+- 💼 LinkedIn: https://linkedin.com/in/your-link  
+- 🧑‍💻 GitHub: https://github.com/YOUR_USERNAME  
+
+---
+
+⭐ *I’m eager to learn, grow, and contribute to meaningful software projects.*
