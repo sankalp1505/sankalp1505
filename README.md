@@ -1,59 +1,53 @@
-# Hi 👋, I'm Ankit Raj
+# Hi 👋, I'm Sankalp Raj
 
-🎓 Computer Science Graduate (2023)  
+🎓 Computer Science Graduate (2025)  
 💻 Java Full Stack Developer | Fresher  
 📍 Bangalore, India  
 
-I’m a motivated Computer Science graduate with a strong foundation in **Core Java, Advanced Java, and Web Development**. I enjoy building real-world projects and continuously improving my skills in full-stack development.
-
----
-
-## 🚀 About Me
-
-- 🌱 Currently learning **Spring Boot, Spring MVC & Hibernate**
-- 🔭 Worked on **Automatic Number Plate Detection System** and **Student Management System**
-- 💡 Interested in backend development and real-world software solutions
-- 🤝 Open to entry-level / fresher opportunities in software development
+I’m a motivated Computer Science graduate with a strong foundation in **Core Java, Advanced Java, and Web Development**. I have hands-on 
+experience in **Spring Boot, Spring MVC, Hibernate, and MySQL**. I enjoy building real-world projects and continuously improving my skills in full-stack development.
 
 ---
 
 ## 🛠️ Technical Skills
 
-**Languages**
-- Java  
-- JavaScript  
+### 💻 Languages
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" width="50" height="50"/>
+</p>
 
-**Backend**
-- Spring Boot  
-- Spring MVC  
-- Hibernate  
+### ⚙️ Backend
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/hibernate/hibernate-original.svg" width="50" height="50"/>
+</p>
 
-**Frontend**
-- HTML  
-- CSS  
-- JavaScript  
+### 🎨 Frontend
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-original.svg" width="50" height="50"/>
+</p>
 
-**Database**
-- MySQL  
+### 🗄️ Database
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" width="50" height="50"/>
+</p>
 
-**Tools**
-- Git & GitHub  
-- VS Code  
-- Eclipse / IntelliJ  
-
----
-
-## 📌 Projects
-
-### 🔹 Automatic Number Plate Detection System  
-- Built using Python & OpenCV  
-- Detects vehicle number plates and extracts text using OCR  
-- Used for real-world traffic and security applications  
-
-### 🔹 Student Management System  
-- Java + MySQL based application  
-- Performs CRUD operations for student records  
-- Focused on clean backend logic and database connectivity  
+### 🧰 Tools
+<p align="left">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original.svg" width="50" height="50"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/maven/maven-original.svg" width="50" height="50"/>
+</p>
 
 ---
 
@@ -65,9 +59,9 @@ I’m a motivated Computer Science graduate with a strong foundation in **Core J
 
 ## 📫 Connect With Me
 
-- 📧 Email: yourmail@gmail.com  
-- 💼 LinkedIn: https://linkedin.com/in/your-link  
-- 🧑‍💻 GitHub: https://github.com/YOUR_USERNAME  
+- 📧 Email: sr20229081@gmail.com  
+- 💼 LinkedIn: https://www.linkedin.com/in/sankalp-raj/ 
+- 🧑‍💻 GitHub:   https://github.com/sankalp1505/sankalp1505/
 
 ---
 
